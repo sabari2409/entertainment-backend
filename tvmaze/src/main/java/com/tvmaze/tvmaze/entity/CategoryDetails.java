@@ -68,7 +68,7 @@ public class CategoryDetails {
     public double getRatings() {
          return ratings;
     }
-    
+
      public void setRatings(double ratings) {
         this.ratings = ratings;
      }
